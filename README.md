@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me Not Available
+- 📫 **Hidden**
 
 <!---
 alexchu-dev/alexchu-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

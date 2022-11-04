@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @alexchu-dev
-- 👀 I’m interested in Computer
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Anything
-- 📫 **Hidden**
-
-<!---
-alexchu-dev/alexchu-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi there, I am Alex Chu
+- 🌱 I like computers and therefore I started coding
+- 💞️ I’m looking to collaborate on ANYTHING, so feel free to talk to me
+- 🔧 I am not very experienced but I am a life time learner so I basically constantly learning
+- 📫 Contact me through alexchu.developer@gmail.com or Discord achu#1599

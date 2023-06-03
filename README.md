@@ -1,6 +1,6 @@
 # Quick facts about me:
 - 👋 Hi there, I am Alex Chu, studying in a Computer Science diploma in Canada.
-- 🌱 I started using computers which only have big floppy drive and black & white screens, I first coded with Basic and Pascal with a i486 pc.
+- 🌱 My first computers which only has big floppy drive and black & white screens, I first coded with Basic and Pascal with a i486 pc?
 - 🔧 I loved internet and web building and built my first HTML site in 1997.
 - 💞️ I can't live without a computer and I really like coding. Feel free to connect me in linkedin or wherever you could find me!
 

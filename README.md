@@ -1,8 +1,7 @@
 # Quick facts about me:
-- 👋 Hi there, I am Alex Chu, studying in a Computer Science diploma in Canada.
-- 🌱 My first computers which only has big floppy drive and black & white screens, I first coded with Basic and Pascal with a i486 pc?
-- 🔧 I loved internet and web building and built my first HTML site in 1997.
-- 💞️ I can't live without a computer and I really like coding. Feel free to connect me in linkedin or wherever you could find me!
+- 👋 Hi there, I am Alex Chu, studying in a Computer Science diploma.
+- 🌱 I am new to coding and it is interesting to me.
+- 💞️ I can't live without a computer. Feel free to connect me in linkedin or wherever you could find me!
 
 # Self intro
 In addition to the quick facts above, my path to Web Dev is from plain HTML + some JS then to web design, built my own servers with LAMP and LEMP stacks and built some websites for clients in my freelance work.

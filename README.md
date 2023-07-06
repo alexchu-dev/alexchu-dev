@@ -9,9 +9,8 @@ Hi there, I am Alex Chu, an inspiring fullstack web developer.
 The difference between a Good and Bad programmer is not about coding, it is about their data structure and algorithms, and planning.
 We can always pick up different programming languages in just a few weeks, but the key concept is how we solve the problems.
 
-* 🖥️  See my portfolio at [My Portfolio](http://alexchu.dev)
 * ✉️  You can contact me at [alexchu4](mailto:alexchu4)
-* 🧠  I'm learning C#
+* 🧠  I'm learning NextJS, Python, C#
 * 🤝  I'm open to collaborating on interesting projects, NGO stuff.
 
 ### Skills

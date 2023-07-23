@@ -59,8 +59,6 @@ We can always pick up different programming languages in just a few weeks, but t
 
 <a href="https://github.com/alexchu-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexchu-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
 ## [Assignment 3](https://a3.alexchu414.uk)
 https://a3.alexchu414.uk - A Game Rental shop, which uses Express Handlebars and Node.js, without using real databases to mimic the manipulatation.
 ![Screenshot 2023-06-02 231041](https://github.com/alexchu-dev/alexchu-dev/assets/61229735/2e2c8e1c-fa88-4311-ad8c-aec6a05dc883)

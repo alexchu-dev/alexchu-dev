@@ -1,13 +1,12 @@
-Hi 👋 My name is Alex Chu
+Hi 👋 My name is Alex Chu.
 =========================
-
-Full-stack developer
+I work as a full stack developer, and I am also an aviation enthusiast.
 -------------
 
-Hi there, I am Alex Chu.
-
 * ✉️  You can contact me at [alexchu.developer@gmail.com](mailto:alexchu.developer@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects, NGO stuff.
+* 🤝  I am interested in aviation stuff, always welcome to find me to collaborate.
+* I am keen on web app development. Going to try mobile app dev next.
+* There are quite a lot of private repo from work and previous school coursework, so they are hidden on purpose.
 
 ### Skills
 

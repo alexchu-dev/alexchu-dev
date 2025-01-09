@@ -1,13 +1,14 @@
-Hi 👋 My name is Alex Chu.
+Hello there 👋
 =========================
-I work as a full stack developer, and I am also an aviation enthusiast.
+I am a full stack developer and currently focus on API development. I am learning Machine Learning and Artificial Intelligence.
+
+I am also an aviation enthusiast.
 -------------
 
 * ✉️  You can contact me at [alexchu.developer@gmail.com](mailto:alexchu.developer@gmail.com)
-* 🤝  I am interested in aviation stuff, always welcome to find me to collaborate.
-* I am keen on web app development. Going to try mobile app dev next.
-* There are quite a lot of private repo from work and previous school coursework, so they are hidden on purpose.
-
+* I am keen on web app development.
+* I am interested in aviation stuff and am a leisure pilot.
+* I love driving as well 🚗
 ### Skills
 
 

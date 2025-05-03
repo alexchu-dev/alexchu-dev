@@ -1,8 +1,6 @@
-Hello there 👋
+Hello 👋
 =========================
-I am a full stack developer and currently focus on API development. I am learning Machine Learning and Artificial Intelligence.
-
-I am also an aviation enthusiast.
+I am a fullstack developer, interested in AI and ML.
 -------------
 
 * ✉️  You can contact me at [alexchu.developer@gmail.com](mailto:alexchu.developer@gmail.com)
